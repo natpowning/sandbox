@@ -1,6 +1,6 @@
 const config = {
   branches: [
-    { name: "develop" },
+    { name: "main" },
   ],
 
   plugins: [
